@@ -41,3 +41,5 @@ cargo run --release -- --check-hotkey
 
 - This is Windows-only.
 - If another app already owns the `Print Screen` global hotkey, startup will fail with a Windows error.
+
+<!-- Repository metadata maintenance note. -->
